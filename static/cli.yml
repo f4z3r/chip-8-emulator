@@ -1,0 +1,13 @@
+name: CHIP-8 Emulator
+author: Jakob Beckmann <beckmann_jakob@hotmail.fr>
+about: Emulator of the CHIP-8 programming language.
+args:
+    - ROM:
+        help: the ROM to launch in the emulator
+        required: true
+        takes_value: true
+        index: 1
+        possible_values:
+            - TETRIS
+            - PONG
+            - MISSILE
