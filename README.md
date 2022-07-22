@@ -1,4 +1,4 @@
-# CHIP-8 Emulator [![Build Status](https://travis-ci.com/jakobbeckmann/chip-8-emulator.svg?token=6RwG9cGf5RW9JwThwdpc&branch=master)](https://travis-ci.com/jakobbeckmann/chip-8-emulator)
+# CHIP-8 Emulator [![Build Status](https://app.travis-ci.com/f4z3r/chip-8-emulator.svg?branch=master)](https://app.travis-ci.com/f4z3r/chip-8-emulator)
 
 ## TODOs
 
